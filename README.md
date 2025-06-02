@@ -29,13 +29,13 @@ Ce dépôt documente l'installation, la configuration et l'organisation de mon h
 
 ## 🔧 Services Documentés
 
-- [Architecture du réseau](docs/architecture.md)
-- [Serveur DHCP (Kea)](docs/dhcp.md)
-- [Serveur DNS (CoreDNS)](docs/dns.md)
-- [Firewall (pfSense)](docs/firewall.md)
-- [Gestion des VMs (Proxmox)](docs/proxmox.md)
-- [Supervision (Zabbix/Nagios)](docs/supervision.md)
-
+- [Architecture du réseau](docs/1-architecture.md)
+- [Gestion des VMs (Proxmox)](docs/2-proxmox.md)
+- [Serveur DHCP (Kea)](docs/3-dhcp.md)
+- [Serveur DNS (CoreDNS)](docs/4-dns.md)
+- [Firewall (pfSense)](docs/5-pfsense.md)
+- [Supervision (Zabbix)](docs/6-zabbix.md)
+- [Serveur VPN (OpenVPN)](docs/7-openvpn.md)
 ---
 
 ## 🖼️ Schéma réseau
