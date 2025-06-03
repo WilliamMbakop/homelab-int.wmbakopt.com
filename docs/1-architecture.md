@@ -56,6 +56,6 @@ Ce document présente l'architecture globale de mon homelab personnel. Cet envir
 - **DNS secondaire** : `10.10.10.4`
 - **Nom de domaine interne** : `int.wmbakopt.com`
 - nom de domaine public : wmbakopt.com
-- portfolio : htttp://www.wmbakopt.com (en cours de mise en production)
+- portfolio : https://www.wmbakopt.com (en cours de mise en production)
 
 
