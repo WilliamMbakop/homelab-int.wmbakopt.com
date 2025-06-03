@@ -55,14 +55,7 @@ Ce document présente l'architecture globale de mon homelab personnel. Cet envir
 - **DNS primaire** : `10.10.10.3`
 - **DNS secondaire** : `10.10.10.4`
 - **Nom de domaine interne** : `int.wmbakopt.com`
+- nom de domaine public : wmbakopt.com
+- portfolio : htttp://www.wmbakopt.com (en cours de mise en production)
 
-
-## 🛡️ Sécurité et cloisonnement
-
-- VLANs à venir pour isoler les services
-- Règles NAT/Firewall définies dans pfSense
-- Supervision des services critiques via Zabbix
-- Accès distant limité via VPN (WireGuard ou OpenVPN)
-
----
 
