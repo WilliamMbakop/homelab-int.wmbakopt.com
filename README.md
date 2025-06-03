@@ -39,7 +39,8 @@ Ce dépôt documente l'installation, la configuration et l'organisation de mon h
 
 ---
 
-## 🔗 Liens utiles
+## 🌐 Me retrouver
 
 [![Portfolio](https://wmbakopt.com)](https://wmbakopt.com)  
 [![LinkedIn](https://www.linkedin.com/in/mbakopwilliam/)](https://www.linkedin.com/in/mbakopwilliam/)
+
