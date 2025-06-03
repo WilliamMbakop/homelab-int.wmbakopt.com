@@ -13,7 +13,7 @@ Proxmox VE est l’hyperviseur principal de mon homelab. Il me permet de gérer 
 | Type de serveur     | Machine physique dédiée            |
 | Stockage principal  | LVM Thin                           |
 | Sauvegardes         | Prochainement                      |
-| Accès réseau        | Interfaces `vmbr0` et `vmbr0`      |
+| Accès réseau        | Interfaces `vmbr0` et `vmbr1`      |
 | Domaine             | `int.wmbakopt.com`                 |
 | IP de gestion       | `10.10.10.1`                       |
 
