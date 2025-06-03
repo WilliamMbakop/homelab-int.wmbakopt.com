@@ -36,11 +36,6 @@ Ce dépôt documente l'installation, la configuration et l'organisation de mon h
 - [Firewall (pfSense)](docs/5-pfsense.md)
 - [Supervision (Zabbix)](docs/6-zabbix.md)
 - [Serveur VPN (OpenVPN)](docs/7-openvpn.md)
----
-
-## 🖼️ Schéma réseau
-
-En cours de réalisation
 
 ---
 
